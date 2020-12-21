@@ -1,0 +1,107 @@
+{
+    "name": "Covid-19 Cardinal Questions",
+    "instructions": "Please indicate your agreement or disagreement with the following statement. Please be open and honest in your responding.",
+    "questions": [
+        {
+            "text": "Do you have Cough?.",
+            "answers": [
+                {
+                    "text": "Yes",
+                    "score": 7
+                },
+                {
+                    "text": "No",
+                    "score": 1
+                }
+            ]
+        },
+        {
+            "text": "Do you have Fever?.",
+            "answers": [
+                {
+                    "text": "Yes",
+                    "score": 7
+                },
+                {
+                    "text": "No",
+                    "score": 1
+                }
+            ]
+        },
+        {
+            "text": "Do you have Sore Throat?.",
+            "answers": [
+                {
+                    "text": "Yes",
+                    "score": 7
+                },
+                {
+                    "text": "No",
+                    "score": 1
+                }
+            ]
+        },
+        {
+            "text": "Are you having Difficulty Breathing?.",
+            "answers": [
+                {
+                    "text": "Yes",
+                    "score": 7
+                },
+                {
+                    "text": "No",
+                    "score": 1
+                }
+            ]
+        },
+        {
+            "text": "Are you having Muscle aches?.",
+            "answers": [
+                {
+                    "text": "Yes",
+                    "score": 7
+                },
+                {
+                    "text": "No",
+                    "score": 1
+                }
+            ]
+        },
+        {
+            "text": "Loss of smell?.",
+            "answers": [
+                {
+                    "text": "Yes",
+                    "score": 7
+                },
+                {
+                    "text": "No",
+                    "score": 1
+                }
+            ]
+        },
+        {
+            "text": "Do you have a running nose?.",
+            "answers": [
+                {
+                    "text": "Yes",
+                    "score": 7
+                },
+                {
+                    "text": "No",
+                    "score": 1
+                }
+            ]
+        }
+    ],
+    "interpretations": [
+        {
+            "score": 42,
+            "text": "Kindly proceed to the help desk for further assistance"
+        },
+        {
+            "score": 6,
+            "text": "You can proceed to the training"
+        }
+    ]
+}
